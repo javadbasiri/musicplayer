@@ -1,3 +1,10 @@
+# simple music player with React.js
+### in this project i used :
+- fontawesome
+- styled-components
+- uuid
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
